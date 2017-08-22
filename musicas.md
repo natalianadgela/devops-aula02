@@ -1,4 +1,4 @@
 teste 1
 teste 2
-test
+test.
 teste 3
